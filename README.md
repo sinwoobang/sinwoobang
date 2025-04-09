@@ -1,11 +1,6 @@
 <p align="center">
   <samp>
-    This is Sin-Woo, a Software Engineer from South Korea. I am an enthusiast of Python & Agile.
-    <br>
-    <br>
-    ⭐️ Recent Activity: Contribution to Django https://github.com/django/django/pull/16386 ⭐️
-    <br>
-    <br>
-    Contact me via <a href="mailto:sinwoobang@gmail.com">Send an Email</a>
+    Currently working for [Global AI Platform Corp.](https://github.com/a15t/)
+    Feel free to <a href="mailto:sinwoobang@gmail.com">send me an email</a>
   </samp>
 </p>
